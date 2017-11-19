@@ -13,8 +13,9 @@ Jorge Morejon
 Alter a web application so that it can have hover, and clickable items that display information
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://jam15k.github.io/lesson7_jquery/
+
 
 ### Lessons Learned in the Assignment:
 1. Learned about js file types
